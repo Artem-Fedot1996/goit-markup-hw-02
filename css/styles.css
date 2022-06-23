@@ -1,0 +1,7 @@
+body {
+    color: black;
+}
+.site-nav:hover a,
+.site-nav:focus a { 
+color: #2196F3;
+}
